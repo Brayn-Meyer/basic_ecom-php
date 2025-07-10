@@ -14,6 +14,6 @@
     }
 
     if ($conn) {
-        echo "Database is connected <br>";
+        // echo "Database is connected <br>";
     }
 ?>

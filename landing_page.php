@@ -19,6 +19,10 @@
         ?>
     </h1>
     <h4>You are here.</h4>
+    <ul>
+        <li><a href="product_page.php">Product Page</a></li>
+        <li><a href="cart_page.php">Cart Page</a></li>
+    </ul>
     <style>
         h1, h4 {
             text-align : center;

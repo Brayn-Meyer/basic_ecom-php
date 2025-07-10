@@ -5,6 +5,10 @@
 </head>
 <body>
     <h1>Cart Page</h1>
+    <ul>
+        <li><a href="landing_page.php">Landing Page</a></li>
+        <li><a href="product_page.php">Product Page</a></li>
+    </ul>
     <?php
         include "basic_ecom-db.php";
         
